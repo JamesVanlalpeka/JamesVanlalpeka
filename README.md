@@ -11,7 +11,9 @@ Hello World 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesVanlalpeka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=radical)
 
 
-![github](https://user-images.githubusercontent.com/66527505/158825516-f8555937-2e22-443b-8fd3-2be25f6324d0.gif)
+
+![github1](https://user-images.githubusercontent.com/66527505/158826289-057a4570-865a-4b9c-801e-a127efff8638.gif)
+
 
 
 
