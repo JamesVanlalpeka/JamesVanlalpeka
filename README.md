@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Project
 - 📫 How to reach me: jamesvlpeka123@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/His
 -->
