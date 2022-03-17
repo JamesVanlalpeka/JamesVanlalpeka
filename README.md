@@ -8,4 +8,4 @@ Hello World 👋
 - 😄 Pronouns: He/His
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesVanlalpeka&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesVanlalpeka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&theme=radical)
